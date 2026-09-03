@@ -1,1 +1,3 @@
-# Keep assets/icons folder
+node_modules/
+dist/
+.env
